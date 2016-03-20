@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BoydWichman]]></title>
+        <description><![CDATA[BoydWichman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 23:02:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>There will be 3 types of posts for this web site:</p>]]></description>
+            <link>undefinedthere-will-be-3-types-of-posts-for-this-web-site/index.html</link>
+            <guid isPermaLink="false">27fe1d52-39ed-46e7-85be-37bf13c21c5e</guid>
+            <pubDate>Sun, 20 Mar 2016 23:02:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
